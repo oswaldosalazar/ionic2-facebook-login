@@ -1,5 +1,5 @@
 {
-  "name": "ionic2fblogin",
+  "name": "CBA-App",
   "author": "Ionic Framework",
   "homepage": "http://ionicframework.com/",
   "private": true,
@@ -33,7 +33,7 @@
     "@ionic/app-scripts": "^0.0.43",
     "typescript": "^2.0.3"
   },
-  "description": "ionic2FbLogin: An Ionic project",
+  "description": "CBA-App: An Ionic project",
   "cordovaPlugins": [
     "cordova-plugin-device",
     "cordova-plugin-console",
